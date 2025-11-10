@@ -4,7 +4,7 @@ Multi-AI agents on Cloud Run give life to IoT sensors with real personalities
 
 > **A home that listens, thinks, and saves lives through 6 AI agents with real personalities.**
 
-Built for **Google Cloud Run Hackathon 2024** - AI Agents Category
+Built for **Google Cloud Run Hackathon 2025** - AI Agents Category
 
 ---
 
