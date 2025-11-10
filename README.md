@@ -95,7 +95,7 @@ MIT License - See [LICENSE](LICENSE) file
 Built for [Google Cloud Run Hackathon 2024](https://cloudrun.devpost.com)
 
 **Category:** AI Agents  
-**Developer:** [Your Name]
+**Developer:** [Belinga Belinga Steve]
 
 ---
 
